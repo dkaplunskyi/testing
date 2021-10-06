@@ -4,8 +4,9 @@ wasup? hamza this is moaaz.
 i am feeling good man how's everyone else?
 is anyone alive here?
 am good my man
-<<<<<<< HEAD
+
 good good whats going on hamza bey?
-=======
+
 Everyone is taking long nap (hmza)
->>>>>>> 2065e8b293175bf02997122bdbcc545db5cf0a7a
+
+
