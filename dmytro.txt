@@ -16,11 +16,11 @@ this is adil, the second tryyyy!.
 this is adil, the 3rd tryyy.
 
 
-<<<<<<< HEAD
+
 this mohammad
 
 its Nijiat
-=======
+
 
 this is Moaaz
->>>>>>> 3b3045046f9e5be56760aea29ce1dd39ece0b394
+
