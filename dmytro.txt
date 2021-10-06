@@ -11,7 +11,13 @@ good boy
 
 man please come and lets do it (hmza)
 
+this thing is good man.
+
+
 I'm busted!!!
 
-
+<<<<<<< HEAD
 No more GIT for today!!! 
+=======
+you are under arrest for scamming people put your weapons down hands on you back lay on the ground.
+>>>>>>> b695fc46e8a8727ca9edc29739f1908c46c5a83a
