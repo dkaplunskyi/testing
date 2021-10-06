@@ -3,8 +3,6 @@ Let's start over
 Hey Bomsa bey 
 =======
 
-You are HACKED!!! Please print here your Credit Card Number and Security code, then PUSh it back!
-
 hey guys wake up! (hmza)
 
 hahaha alright man
@@ -12,5 +10,23 @@ this is fcpd you dont supposed
 
 
 Ok ! I wiil not say it again!
+<<<<<<< HEAD
 man please come and lets do it (hmza)
 >>>>>>> 4216fc3e93ad06d7de3b96d91a80dedd07825f2e
+=======
+
+good boy
+
+man please come and lets do it (hmza)
+
+this thing is good man.
+
+
+I'm busted!!!
+
+<<<<<<< HEAD
+No more GIT for today!!! 
+=======
+you are under arrest for scamming people put your weapons down hands on you back lay on the ground.
+>>>>>>> b695fc46e8a8727ca9edc29739f1908c46c5a83a
+>>>>>>> 62ac548803da59035ea22bb77fe98e1f80b180c5
